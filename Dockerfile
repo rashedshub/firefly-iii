@@ -1,0 +1,1 @@
+FROM fireflyiii/core:latest
